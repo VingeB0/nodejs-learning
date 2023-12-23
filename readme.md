@@ -1,6 +1,6 @@
 ## This repository contains folders of different applications that were developed for self-training in various Node.js topics.
 
-# Note Apps
+# Notes Apps
 ## File System and Commands with Node.js
 This is a training application designed to understand the Node.js file system and libraries associated with it. A JSON file is used as a database.
 #### npm Packages: yargs, chalk
