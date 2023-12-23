@@ -1,0 +1,1 @@
+export const JSON_FILE_NAME = 'src/data/notes.json';
